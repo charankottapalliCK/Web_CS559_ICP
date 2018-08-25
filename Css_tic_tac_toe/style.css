@@ -1,0 +1,26 @@
+.tic-tac
+{
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    border: 2px black;
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+}
+.grids
+{
+    border-right: 2px solid black;
+    border-bottom:  2px solid black;
+    align: center;
+}
+.grids1{
+    border-right: 2px solid black;
+    align: center;
+}
+.grids3{
+    border-bottom: 2px solid black;
+    align: center;
+}
+.grids2{
+    border: none;
+}
