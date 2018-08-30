@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title>Rock Paper Scissors</title>
+    <script>
+        function my_form() {
+            var x = document.getElementById("player1").value;
+            var y=  Math.round((Math.random()*10)%3);
+            console.log(y);
+            var r ="";
+            if(y==0)
+                r="rock";
+            else if(y==1)
+                r="paper";
+            else if(y==2)
+                r="scissors";
+            console.log(y);
+            if (x == "") {
+                document.getElementById("result").innerHTML = "You should submit an entry";
+            }
+            else if(!(x=="paper"||x=="rock"||x=="scissors"))
+                document.getElementById("result").innerHTML = "You should enter either rock/paper/scissors";
+            else if(x=="rock" && y==2)
+                document.getElementById("result").innerHTML = "You win "+x+" wins "+r;
+            else if(x=="paper" && y==2)
+                document.getElementById("result").innerHTML = "Computer Wins "+x+" loses to "+ r;
+            else if(x=="scissors" && y==2)
+                document.getElementById("result").innerHTML = "Its a tie";
+            else if(x=="rock" && y==1)
+                document.getElementById("result").innerHTML = "You win "+x+" wins "+r;
+            else if(x=="paper" && y==1)
+                document.getElementById("result").innerHTML = "Its a tie";
+            else if(x=="scissors" && y==1)
+                document.getElementById("result").innerHTML = "You win " + x +" wins to "+r;
+            else if(x=="rock" && y==0)
+                document.getElementById("result").innerHTML = "Its a tie";
+            else if(x=="paper" && y==0)
+                document.getElementById("result").innerHTML = "Computer wins "+ x + " loses to "+r;
+            else if(x=="scissors" && y==0)
+                document.getElementById("result").innerHTML = "Computer Wins" + x + " loses to "+ r;
+        }
+    </script>
+</head>
+<body style="background-color:lightsteelblue;">
+<div class="container" style="padding:50px;">
+    <div class="jumbotron">
+        <h1>Welcome to Rock / Paper / Scissors Game !</h1>
+        <div class="form-group">
+        <label for="player1">Player</label>
+        <input type="text" name="player1" id="player1" class="form-control">
+        </div>
+    <button type="button" class="btn btn-primary" onclick="my_form()">Play!</button>
+    <br><br>
+    <div class="alert alert-success">
+    <p id="result"></p>
+    </div>
+    </div>
+</div>
+</body>
+</html>
