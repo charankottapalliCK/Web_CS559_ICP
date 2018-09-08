@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Color Picker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<script>
+    $(document).ready(function(){
+        $(".red, .green, .blue").on('input', function(){
+            var red = $(".red").val();
+            var green = $(".green").val();
+            var blue = $(".blue").val();
+            $(".show-color").css("background", "rgb("+red+","+green+","+blue+")");
+        });
+        $("button").click(function(){
+            var text_color = document.getElementById("in").value;
+            $(".show-color1").css("background", text_color);
+            });
+    });
+</script>
+
+<h1>Color Picker</h1>
+
+<div class="container">
+    <div class="jumbotron">
+        <div class="row">
+            <div class="col-lg-2">
+        <p>Red :</p> <input type="range" max="255" min="0" step="1" class="red"><br>
+        <p>Green :</p> <input type="range" max="255" min="0" step="1" class="green"><br>
+        <p>Blue :</p> <input type="range" max="255" min="0" step="1" class="blue"><br>
+        </div>
+            <div class="col-lg-10">
+                <div class="show-color"></div>
+            </div>
+        </div>
+    </div>
+    <div class="color-value">
+        <div class="row">
+            <div class="col-lg-2">
+        <label>Enter color</label>
+        <input type="text" class="input-color" id="in"><br>
+                <button class="btn btn-primary">Set the color input field</button>
+            </div>
+            <div class="col-lg-10">
+            <div class="show-color1"></div>
+        </div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

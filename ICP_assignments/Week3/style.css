@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+.rgb-slider{
+    width: 42%;
+    margin: 30px;
+    padding: 40px;
+    border:2px solid black;
+    float: left;
+}
+.show-color{
+    width: 100%;
+    height: 350px;
+    border:2px solid black;
+    border-radius: 10px;
+    background: white;
+}
+.show-color1{
+    width: 100%;
+    height: 350px;
+    border:2px solid black;
+    border-radius: 10px;
+    background: white;
+}
+span{
+    font-size: 50px;
+    margin: 0px 30px;
+}
