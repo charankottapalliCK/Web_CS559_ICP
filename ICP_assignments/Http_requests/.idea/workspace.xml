@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02e94c16-c4c7-4fab-b209-9963f6b6cbc7" name="Default Changelist" comment="" />
+    <list default="true" id="b8faf9d5-386b-47f8-a4a8-4825242eb744" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,86 +12,83 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="6372062">
+    <session id="-190141442">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.36" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="3" />
-          <entry key="html" value="11" />
-          <entry key="js" value="7" />
+          <entry key="css" value="2" />
+          <entry key="html" value="10" />
+          <entry key="js" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="3" />
-          <entry key="HTML" value="11" />
-          <entry key="JavaScript" value="7" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="10" />
+          <entry key="JavaScript" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="561" />
-          <entry key="js" value="154" />
+          <entry key="html" value="1399" />
+          <entry key="js" value="1556" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="561" />
-          <entry key="JavaScript" value="154" />
+          <entry key="HTML" value="1399" />
+          <entry key="JavaScript" value="1556" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web_Lesson4/ICP/Todo/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="106" selection-start-line="30" selection-start-column="95" selection-end-line="30" selection-end-column="106" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web_Lesson4/ICP/Todo/todo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Web_Lesson4/ICP/Calculator/calculator.js">
+        <entry file="file://$PROJECT_DIR$/Web_Lesson5/Language_Translator/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="678">
-              <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+            <state relative-caret-position="203">
+              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+              <folding>
+                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web_Lesson4/ICP/Calculator/index.html">
+        <entry file="file://$PROJECT_DIR$/Web_Lesson5/ICE-Restaurants for U/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="79" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+            <state relative-caret-position="158">
+              <caret line="109" column="19" lean-forward="true" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+              <folding>
+                <element signature="n#input#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web_Lesson4/ICP/Todo/main.css">
+        <entry file="file://$PROJECT_DIR$/Web_Lesson5/Language_Translator/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="31" column="55" lean-forward="true" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web_Lesson5/ICE-Restaurants for U/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -101,19 +98,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Web_Lesson4/ICP/Calculator/calculator.js" />
-        <option value="$PROJECT_DIR$/Web_Lesson4/ICP/Calculator/style.css" />
-        <option value="$PROJECT_DIR$/Web_Lesson4/ICP/Todo/main.css" />
-        <option value="$PROJECT_DIR$/Web_Lesson4/ICP/Todo/index.html" />
-        <option value="$PROJECT_DIR$/Web_Lesson4/ICP/Todo/todo.js" />
-        <option value="$PROJECT_DIR$/Web_Lesson4/ICP/Calculator/index.html" />
+        <option value="$PROJECT_DIR$/Web_Lesson5/ICE-Restaurants for U/app.js" />
+        <option value="$PROJECT_DIR$/Web_Lesson5/Language_Translator/app.js" />
+        <option value="$PROJECT_DIR$/Web_Lesson5/ICE-Restaurants for U/index.html" />
+        <option value="$PROJECT_DIR$/Web_Lesson5/Language_Translator/index.html" />
       </list>
     </option>
   </component>
@@ -138,52 +134,38 @@
         <subPane>
           <expand>
             <path>
-              <item name="Web_Lesson4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Lesson5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web_Lesson5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Web_Lesson4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Lesson5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web_Lesson5" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Lesson5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Web_Lesson4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="AngularJS" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Lesson5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web_Lesson5" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Lesson5" type="462c0819:PsiDirectoryNode" />
+              <item name="ICE-Restaurants for U" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Web_Lesson4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="ICP" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Lesson5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web_Lesson5" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Lesson5" type="462c0819:PsiDirectoryNode" />
+              <item name="Language_Translator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Web_Lesson4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="ICP" type="462c0819:PsiDirectoryNode" />
-              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Lesson5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web_Lesson5" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Lesson5" type="462c0819:PsiDirectoryNode" />
+              <item name="UseCase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Web_Lesson4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="ICP" type="462c0819:PsiDirectoryNode" />
-              <item name="Todo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Web_Lesson4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="Usecase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Web_Lesson4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="Web_Lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="Usecase" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Lesson5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web_Lesson5" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_Lesson5" type="462c0819:PsiDirectoryNode" />
+              <item name="UseCase" type="462c0819:PsiDirectoryNode" />
+              <item name="WIKI" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,9 +175,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/AngularJS_projects" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -211,54 +193,74 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/Web_Lesson5/ICE-Restaurants for U">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="02e94c16-c4c7-4fab-b209-9963f6b6cbc7" name="Default Changelist" comment="" />
-      <created>1537035373136</created>
+      <changelist id="b8faf9d5-386b-47f8-a4a8-4825242eb744" name="Default Changelist" comment="" />
+      <created>1537565194655</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537035373136</updated>
-      <workItem from="1537035381145" duration="12367000" />
-      <workItem from="1537111676405" duration="610000" />
+      <updated>1537565194655</updated>
+      <workItem from="1537565206440" duration="18763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12977000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="18763000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
+      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.0016366612" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -267,58 +269,58 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Web_Lesson4/Usecase/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Lesson4/Usecase/js/app.js">
+    <entry file="file://$PROJECT_DIR$/Web_Lesson5/ICE-Restaurants for U/app.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Lesson4/ICP/Calculator/style.css" />
-    <entry file="file://$PROJECT_DIR$/Web_Lesson4/AngularJS/expression.html">
+    <entry file="file://$PROJECT_DIR$/Web_Lesson5/UseCase/WIKI/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Lesson4/AngularJS/controller.html">
+    <entry file="file://$PROJECT_DIR$/Web_Lesson5/UseCase/WIKI/service.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Lesson4/AngularJS/app_init_model.html">
+    <entry file="file://$PROJECT_DIR$/Web_Lesson5/UseCase/WIKI/script.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Lesson4/ICP/Todo/index.html">
+    <entry file="file://$PROJECT_DIR$/Web_Lesson5/UseCase/WIKI/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="106" selection-start-line="30" selection-start-column="95" selection-end-line="30" selection-end-column="106" />
+        <state relative-caret-position="136">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Lesson4/ICP/Todo/todo.js">
+    <entry file="file://$PROJECT_DIR$/Web_Lesson5/Language_Translator/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        <state relative-caret-position="221">
+          <caret line="31" column="55" lean-forward="true" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Lesson4/ICP/Calculator/index.html">
+    <entry file="file://$PROJECT_DIR$/Web_Lesson5/ICE-Restaurants for U/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="79" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+        <state relative-caret-position="178">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Lesson4/ICP/Todo/main.css">
+    <entry file="file://$PROJECT_DIR$/Web_Lesson5/ICE-Restaurants for U/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="158">
+          <caret line="109" column="19" lean-forward="true" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+          <folding>
+            <element signature="n#input#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_Lesson4/ICP/Calculator/calculator.js">
+    <entry file="file://$PROJECT_DIR$/Web_Lesson5/Language_Translator/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+        <state relative-caret-position="203">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
