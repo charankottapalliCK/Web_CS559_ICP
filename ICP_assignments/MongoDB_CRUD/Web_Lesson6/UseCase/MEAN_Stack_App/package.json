@@ -1,0 +1,17 @@
+{
+  "name": "mean_stack_app",
+  "version": "1.0.0",
+  "main": "mongo.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "cors": "^2.8.4",
+    "mongodb": "^2.2.30"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
