@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginICP</string>
+    <string name="facebook_app_id">460426667801004</string>
+    <string name="fb_login_protocol_scheme">fb460426667801004</string>
+</resources>
