@@ -40,4 +40,12 @@ public class MainActivity extends AppCompatActivity {
         Intent redirect = new Intent(MainActivity.this, Accelerometer.class);
         startActivity(redirect);
     }
+    public void onFileClick(View v){
+        Intent redirect = new Intent(MainActivity.this, FileSave.class);
+        startActivity(redirect);
+    }
+    public void onAudioClick(View v){
+        Intent redirect = new Intent(MainActivity.this, AudioRecord.class);
+        startActivity(redirect);
+    }
 }

@@ -36,7 +36,9 @@
         <activity
             android:name=".MyMapsActivity"
             android:label="@string/title_activity_my_maps" />
-        <activity android:name=".Accelerometer"></activity>
+        <activity android:name=".Accelerometer" />
+        <activity android:name=".FileSave" />
+        <activity android:name=".AudioRecord"></activity>
     </application>
 
 </manifest>
