@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ee5d74ef232039340244a23f7d2674d1d7dd6c41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charankottapalli/.android/build-cache/afa3c9c83b8f9189c4f635c3d8481e201d38096a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb82190ab183ba11abe4c643d07c819c021f9c7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charankottapalli/.android/build-cache/48b9de6474681e6d63007508ffde6898c7d7d3c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f881fa76f3f5f9298172752c58256699d8e6645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charankottapalli/.android/build-cache/2fe5c3e3a25e89b409c140edb79a6f23450bf746/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bee226c2be46a81e8ca74790f8a319eb526bd0bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charankottapalli/.android/build-cache/2100cff1de8d2dd1884fb8cad6f2e6516d032114/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03871a4a141f093c965359f68df2f1b00398c02f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cda8a16ec0c3890c17405ca76a13dd2581db12df">
+        <dex dex="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f35e0c5e00ce3d4d719f7dd63c208e887734201f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charankottapalli/.android/build-cache/58f16283339496c05be54fb79a5983b4e51cc960/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1adf7ccfed19b59de27b2cf12e70848758cc2859/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charankottapalli/.android/build-cache/f5aa7335fc4cb3c09365c48980382103d9d7479e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6e31e370672f7ea656720226feba266c2072e43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charankottapalli/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_72553e5bdef49fa3e0d2787d571424a19ce8bdd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charankottapalli/.android/build-cache/cb694aaa0b1bc4ce917ba6449eca30bcc40935ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f89477a501e8db3c525a277cf790518c61cb821/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charankottapalli/.android/build-cache/e8ade8e1602d0562811d6e3d5fc8751c03c756ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_496b189b284987541fde926d175b29bff383b4e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/charankottapalli/.android/build-cache/f4de41798378a0ab61db8a89697e3331bf1b87f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/charankottapalli/Documents/GitHub/Web_CS559_ICP/ICP_Android/Android-Speech-to-Text/Android-Speech-to-Text-Example-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1da430c7f3fb8a563251f3e3a02c7e0e2663177/classes.dex" />
+    </item>
+
+</items>
